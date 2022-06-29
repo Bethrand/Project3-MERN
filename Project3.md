@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 # **Project 3: MERN STACK IMPLEMENTATION**
 
 ## STEP 1 — *BACKEND CONFIGURATION*
@@ -555,5 +554,3 @@ monospace;
 
 
 
-=======
->>>>>>> e57a6991478e5ffba291d7b14114a5f037ccea8d
