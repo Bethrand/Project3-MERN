@@ -241,7 +241,7 @@ console.log(`Server running on port ${port}`)
 
 ![Database Connected](./Images/Database%20Success.png)
 
-## *Testing Backend Code without Frontend using RESTful API on POSTMAN*
+## *Testing Backend Code without Frontend with RESTful API on POSTMAN*
 ![POST API](./Images/POST%20API.png)
 
 ![GET API](./Images/GET%20API.png)
